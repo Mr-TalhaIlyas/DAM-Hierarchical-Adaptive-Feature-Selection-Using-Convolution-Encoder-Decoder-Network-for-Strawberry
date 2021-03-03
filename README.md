@@ -1,4 +1,4 @@
-![alt text](img0.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img0.png)
 # SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation
 
 In this repo I am uploading the code and necessary scripts for generating results described in our publication in  **_Frontiers in Plant Science_** journal.
@@ -13,20 +13,20 @@ Autonomous harvesters can be used for the timely cultivation of high-value crops
 
 The dataset consist of following four classes,
 
-![alt text](img8.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img8.png)
 
 The instance distribution of each class in the SS1K dataset is shown below
 
-![alt text](img9.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img9.png)
 
 For details [visit here.](https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full)
 
 
 ### Network Architecture
 
-![alt text](img2.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img2.png)
 
-![alt text](img3.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img3.png)
 
 ### Segmentations Grad-CAM
 
@@ -45,21 +45,21 @@ are computed by taking the mean of all M pixels (indexed by i, j)
 in the feature map of class ‘c.’ Finally, the weighing vector ac k is
 calculated as;
 
-![alt text](img.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img.png)
 
-![alt text](img4.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img4.png)
 
 For details [visit here.](https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full)
 
 
 ### Visual Reults
 
-![alt text](img6.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img6.png)
 
 ### Quantitative Results
 
-![alt text](img5.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img5.png)
 
 ### Performance on Different Platforms
 
-![alt text](img7.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img7.png)
