@@ -23,13 +23,13 @@ For details [visit here.](https://www.frontiersin.org/articles/10.3389/fpls.2021
 
 
 ### Network Architecture
-
+__________________
 ![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img2.png)
 
 ![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img3.png)
 
 ### Segmentations Grad-CAM
-
+__________________
 For the qualitative analysis, we apply the Grad-CAM to show the effects of DAM. Grad-CAM is a gradientbased visualization method, which tries to explain the reasoning
 behind the decisions made by the DCNNs. It was mainly
 proposed for classification networks. We propose a modified
@@ -53,13 +53,13 @@ For details [visit here.](https://www.frontiersin.org/articles/10.3389/fpls.2021
 
 
 ### Visual Reults
-
+__________________
 ![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img6.png)
 
 ### Quantitative Results
-
+__________________
 ![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img5.png)
 
 ### Performance on Different Platforms
-
+__________________
 ![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img7.png)
