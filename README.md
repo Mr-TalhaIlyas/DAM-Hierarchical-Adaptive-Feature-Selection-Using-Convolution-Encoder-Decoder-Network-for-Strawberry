@@ -1,4 +1,4 @@
-![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img0.png)
+![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img0.png)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 # SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation
 
 In this repo I am uploading the code and necessary scripts for generating results described in our publication in  **_Frontiers in Plant Science_** journal.
@@ -63,3 +63,23 @@ __________________
 ### Performance on Different Platforms
 __________________
 ![alt text](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberr/blob/master/screens/img7.png)
+
+#### **_Citation_**
+If you like to use our work please consider citing us;
+```
+@article{ilyas2021dam,
+  title={DAM: Hierarchical Adaptive Feature Selection using Convolution Encoder Decoder Network for Strawberry Segmentation},
+  author={Ilyas, Talha and Umraiz, Muhammad and Khan, Abbas and Kim, Hyongsuk},
+  journal={Frontiers in Plant Science},
+  volume={12},
+  pages={189},
+  year={2021},
+  publisher={Frontiers}
+```
+OR via [google scholar](https://scholar.google.com/scholar?cluster=11817317065915208112&hl=en&oi=scholarr)
+
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+**Copyright** © 2021 Ilyas, Umraiz, Khan and Kim. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+
