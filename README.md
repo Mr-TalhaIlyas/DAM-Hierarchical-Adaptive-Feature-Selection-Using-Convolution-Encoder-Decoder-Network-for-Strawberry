@@ -7,7 +7,7 @@
 In this repo I am uploading the code and necessary scripts for generating results described in our publication in  **_Frontiers in Plant Science_** journal.
 
 You can access the [full paper here](https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full)
-Dataset download from [Google Drive Link](https://drive.google.com/file/d/1qrNc-tgIHsUOXaIcMRL9M2cZRPGT-BRN/view?usp=sharing)
+Download this dataset and other from ourlab [Link](https://github.com/Mr-TalhaIlyas/Precision-Agriculture-Datasets)
 
 ## Abstract
 
